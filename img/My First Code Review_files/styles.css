@@ -12,35 +12,26 @@
 body {
   background-color: #66FF33;
 }
-
-
-
 .align{
   font-size: 35px;
   background-color: #FFFF00;
-padding: 10px;
-margin-right: 10px;
-margin-left: 10px;
-border: 20px solid black;
-
-
+  margin-left: inherit;
+  margin-right: inherit;
 
 }
 
-.myp{
-  border: 2px solid white;
-  padding: 4px;
+}
+/*.aboutme{
+  font-size: 35px;
+  background-color: #FFFF00;
+  margin-left: inherit;
+  margin-right: inherit;*/
 }
 .hd1{
   font-size: 40px;
   font-style: italic;
   font-family: cursive;
   background-color: #FFFF00;
-  margin-left: 500px;
-  margin-right: 500px;
-  text-align: center;
-  border: 20px solid black;
-
 
 
 }

@@ -1,0 +1,42 @@
+#padding{
+  padding: 20px;
+}
+.david{
+  font-size: 150px;
+  background-color: #FFFF00;
+
+}
+.floatr{
+  float: right;
+}
+body{
+  background-color: #66FF33;
+}
+.box{
+  width: 400px;
+  height: 400px;
+  background-color: #FFFF00;
+
+}
+.aboutme{
+  font-size: 20px;
+  background-color: #FFFF00;
+}
+.hd1{
+  font-style: italic;
+  font-family: cursive;
+  background-color: #FFFF00;
+}
+.margin{
+  margin: auto;
+}
+.name{
+  background-color: #FFFF00;
+  font-size: 75px;
+}
+.pagename{
+  font: sans-serif;
+  font-family: fantasy;
+  font-weight: bold;
+  font-size: 45px;
+}

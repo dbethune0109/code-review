@@ -1,5 +1,4 @@
-#padding{
-  padding: 20px;
+
 }
 .david{
   font-size: 150px;
@@ -39,13 +38,9 @@ body {
   font-family: fantasy;
   font-weight: bold;
   font-size: 45px;
-.italic {
+
+
+.gold {
   font-style: italic;
   font-weight: bold;
-}
-.align{
-  border:  10px solid white;
-  padding: 6px;
-  
-
 }

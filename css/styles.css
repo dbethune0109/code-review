@@ -38,9 +38,6 @@ body {
   font-family: fantasy;
   font-weight: bold;
   font-size: 45px;
-
-
-.gold {
-  font-style: italic;
-  font-weight: bold;
-}
+img{
+  float: right;
+margin: 0 0 10px 10px;}

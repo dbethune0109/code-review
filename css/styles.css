@@ -9,7 +9,7 @@
 .floatr{
   float: right;
 }
-body{
+body {
   background-color: #66FF33;
 }
 .box{
@@ -19,17 +19,17 @@ body{
 
 }
 .aboutme{
-  font-size: 20px;
+  font-size: 25px;
   background-color: #FFFF00;
+  margin-left: : 40px;
+  margin-right: 40px;
 }
 .hd1{
+  font-size: 40px;
   font-style: italic;
   font-family: cursive;
   background-color: #FFFF00;
-}
-.margin{
-  margin: auto;
-}
+
 .name{
   background-color: #FFFF00;
   font-size: 75px;
@@ -39,4 +39,13 @@ body{
   font-family: fantasy;
   font-weight: bold;
   font-size: 45px;
+.italic {
+  font-style: italic;
+  font-weight: bold;
+}
+.align{
+  border:  10px solid white;
+  padding: 6px;
+  
+
 }

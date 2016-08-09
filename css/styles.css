@@ -1,30 +1,21 @@
-
-}
 .david{
   font-size: 150px;
   background-color: #FFFF00;
-
 }
 .floatr{
   float: right;
   background-color: #FFFF00;
 }
-body {
+  body {
   background-color: #66FF33;
 }
-
-
-
 .align{
   font-size: 35px;
   background-color: #FFFF00;
-padding: 10px;
-margin-right: 10px;
-margin-left: 10px;
-border: 20px solid black;
-
-
-
+  padding: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  border: 20px solid black;
 }
 
 .myp{
@@ -40,9 +31,6 @@ border: 20px solid black;
   margin-right: 500px;
   text-align: center;
   border: 20px solid black;
-
-
-
 }
 .pagename{
   font: sans-serif;
